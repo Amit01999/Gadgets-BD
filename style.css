@@ -1,0 +1,55 @@
+.navbar-brand img {
+  width: 100px;
+  height: auto;
+}
+
+.carousel-item {
+  padding: 10px 90px;
+  background-color: rgb(244, 247, 181);
+}
+
+.smartphone {
+  padding: 20px;
+  width: 80%;
+  height: 40%;
+
+}
+
+.card-body {
+  padding: 30px;
+}
+
+.see {
+  color: tomato;
+}
+
+.card-img-top {
+  width: 200px;
+  height: 200px;
+  margin-top: 5%;
+  margin-left: 25%;
+
+}
+
+.card {
+  border: none;
+  box-shadow: 5px 5px 10px lightgrey;
+}
+
+.cat2 {
+  margin: 50px;
+  padding: 20px;
+  box-shadow: 5px 5px 10px lightgrey;
+}
+
+.cat1 {
+  box-shadow: 5px 5px 10px lightgrey;
+  padding: 20px;
+  margin-left: 100px;
+}
+
+.cat3 img {
+  height: 500px;
+  width: 500px;
+  margin-left: 20px;
+}
